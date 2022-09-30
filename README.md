@@ -1,3 +1,3 @@
 # demo 
 
-here a description of my package
+Here's a new description
